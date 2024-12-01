@@ -1,0 +1,11 @@
+BODY{
+	background-color: #748cab;
+}
+
+.container{
+	background-color: #eaf4f4;
+    padding:15px;
+   box-shadow: 17px 24px 26px 9px rgba(188,199,214,0.94);
+-webkit-box-shadow: 17px 24px 26px 9px rgba(188,199,214,0.94);
+-moz-box-shadow: 17px 24px 26px 9px rgba(188,199,214,0.94);
+}
